@@ -1,0 +1,37 @@
+<div class='title'>
+  <h1 class="title-purp">Another Bad Music Review</h1><br /><br /><br>
+  <p>Welcome to Another Bad Music Review! Create a profile so you can leave your music reviews,
+    good or bad -- our website doesn't discriminate, but it gives everyone else a chance to!<br>
+    That said, make sure to comment on others posts to let them know how you really feel.<br>
+    Our site will allow you to learn more about music, provide a safe place for you to share your obsessions, and allow
+    you to connect with other music nerds.
+    Have fun!
+  </p>
+</div>
+
+{{#each posts as |post|}}
+<div class='row mb-4 post'>
+  <div class='col-md-12'>
+    {{! Displays the Blog Post's Title --> routes to the blog post when you click on the title }}
+    <h2>
+      {{! routes to this specific post's page }}
+      <a href='/post/{{post.id}}'>
+        {{! displays the name of the Post and makes it clickable to that ^ route }}
+        {{post.title}}
+      </a>
+    </h2>
+    <div class='col-md-10'>
+      <h2>
+        <a href='/post/{{post.id}}'></a>
+        {{! displays the date it was created and by which user }}
+        <p>Posted on
+          {{format_date post.date_created}}
+          by music snob:<br />
+          <a class="snob" href="/user/{{user_id}}">{{user.name}}</a><br>
+      </h2>
+    </div>
+  </div>
+</div>
+{{/each}}
+
+
