@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Blair",
+    "email": "blair10324@gmail.com",
+    "password": "password12345",
+    "bio": "Christina is my twin."
+  },
+  {
+    "name": "Christina",
+    "email": "christina@gmail.com",
+    "password": "password12345",
+    "bio": "Blair is my twin."
+  },
+  {
+    "name": "Lacey",
+    "email": "lacey@yahoo.com",
+    "password": "password12345",
+    "bio": "I'm from Canada."
+  },
+  {
+    "name": "Iman",
+    "email": "iman@yahoo.com",
+    "password": "password12345",
+    "bio": "I speak two languages."
+  },
+  {
+    "name": "Terry",
+    "email": "terry@yahoo.com",
+    "password": "password12345",
+    "bio": "I have a cat, and he wears jackets and sweaters AND hoodies."
+  },
+  {
+    "name": "Stephen",
+    "email": "stephen@yahoo.com",
+    "password": "password12345",
+    "bio": "I love bikes with motors."
+  },
+  {
+    "name": "Eddie G",
+    "email": "eddie@yahoo.com",
+    "password": "password12345",
+    "bio": "I work at Office Max."
+  }
+]

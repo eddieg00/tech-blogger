@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Have this album stuck on repeat right now",
+    "description": "A very conceptial album that is deeper than just music", 
+    "artist": "Kendrick Lamar",
+    "album": "Mr. Morale & The Big Steppers",
+    "song": "United In Grief",
+    "date_created": "11/10/2022"
+  },
+  {
+    "title": "Gotta get on that T-Swift game.",
+    "description": "Seriously. It was so good! It changed my life",
+    "date_created": "7/15/2014",
+    "artist": "Taylor Swift",
+    "album": "Red",
+    "song": "All Too Well"
+  },
+  {
+    "title": "Man, it's classic rock day!",
+    "description": "Would have loved to see them live back in the 70s",
+    "date_created": "3/14/2022",
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin IV",
+    "song": "When the Levee Breaks"
+  },
+  {
+    "title": "I love music so much that my project team members hate me.",
+    "description": "Have then song on repeat while in the car lol",
+    "date_created": "01/08/2023",
+    "artist": "Brand New",
+    "album": "Your Favorite Weapon",
+    "song": "Seventy Times 7"
+  },
+  {
+    "title": "This is what Stephen said",
+    "description": "Saw the tour which was amazing. Most songs were good but a lot of fillers",
+    "date_created": "2/8/2023",
+    "artist": "A Tribe Called Quest",
+    "album": "Anthology",
+    "song": ""
+  }
+]
