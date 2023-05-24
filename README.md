@@ -1,10 +1,10 @@
 [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Another Bad Music Review
+# Music Blog
 
 ## Description
 
-Another Bad Music Review is a user-friendly web application designed to provide a platform for music lovers to share their (bad) opinions on specific songs from specific albums by specific artists. The application allows users to create profiles & create posts about their favorite songs, expressing their thoughts, opinions, & critiques about the music. Other users can read the posts, leave comments, & share their own opinions, making the application an engaging & interactive community for music lovers.
+Music Blog for info and ideas for music. Make an account and post your thoughts and comment on others posts!
 
 
 ## Table of Contents
@@ -27,7 +27,7 @@ Another Bad Music Review is a user-friendly web application designed to provide 
 ## Usage
 * Creating Posts
   * You must be logged in to create a post
-  * Once you are logged in, navigate to your Profile from the navigation bar where you can put in the track title, album, and artist and your post description where you can write your opinion on the song, express your thoughts on its lyrics, melody, rhythm, or any other aspect that stands out to you.
+  * Once you are logged in, navigate to your Profile from the navigation bar where you can put in your thoughts and ideas on music.
   * Please note that your log-in session will be logged out after 10 minutes of no activity.
 
 * Commenting on Posts
@@ -54,10 +54,6 @@ Live URL: <a href="https://another-bad-music-review-woo.herokuapp.com/">Another 
 This project is licensed under the MIT license. For more information about this license and what it entails, visit the MIT website <a href="https://opensource.org/licenses/MIT">here</a>.
 
 
-
-## Developers
-
-<li><strong><a href="https://github.com/eddieg00 " target="__blank">Edward Gutierrez</a>:</strong> Back-End Engineer; Presentation, Front-End Engineer</li>
 
 
 
