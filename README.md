@@ -35,9 +35,9 @@ Music Blog for info and ideas for music. Make an account and post your thoughts 
   * To comment on a post, simply click on a post your'd like to comment on and use the comment text box to share your thoughts and opinions, discuss the music with other users, and learn from different perspectives. Once you've got your comment written, press post comment.
 
 ## Deployment
-Live URL: <a href="https://another-bad-music-review-woo.herokuapp.com/">Another Bad Music Review</a>  
+Live URL: <a href="https://music-blog.herokuapp.com/">Music Blog</a>  
 
-![screentshot](./ABMR.png)
+![screentshot](https://github.com/eddieg00/tech-blogger/blob/main/assets/Screenshot%20(43).png)
 
 
 
